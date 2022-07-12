@@ -1,0 +1,16 @@
+<mvc:View
+    controllerName="mr.ui5examples.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page>
+                     <content />
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>
